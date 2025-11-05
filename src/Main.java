@@ -223,12 +223,10 @@ positivos y cuantos negativos.
                     negativo++;
                 }
             }
-
     System.out.println("Numeros positivos : "+ positivo);
     System.out.println("Numeros negativos : "+ negativo);
 
-
-
+    System.out.println("aaa");
 
 
 
