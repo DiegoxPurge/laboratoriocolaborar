@@ -229,6 +229,8 @@ positivos y cuantos negativos.
     System.out.println("aaa"); //Cambio Liana
 
     System.out.println("Hola liana");//Diego
+    /* hola Diego*/
+    /*Hola liana*/
 
 
 
@@ -236,8 +238,12 @@ positivos y cuantos negativos.
 
 
 public static void ej9(){
-
+    System.out.println("numero 1");
+    int n1= sc.nextInt();
+    System.out.println("pon un numero");
+    int n3= sc.nextInt();
 }
+
 
 
 public static void ej10(){
