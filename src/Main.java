@@ -230,6 +230,7 @@ positivos y cuantos negativos.
 
     System.out.println("Hola liana");//Diego
     /* hola Diego*/
+    /*Hola liana*/
 
 
 
