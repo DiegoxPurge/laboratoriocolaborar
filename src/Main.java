@@ -241,7 +241,10 @@ public static void ej9(){
 
 
 public static void ej10(){
-
+    System.out.println("No funciona, pon 1");
+    int n1= sc.nextInt();
+    System.out.println("pon un numero");
+    int n2= sc.nextInt();
 }
 
 
