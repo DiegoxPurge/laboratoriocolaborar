@@ -226,7 +226,9 @@ positivos y cuantos negativos.
     System.out.println("Numeros positivos : "+ positivo);
     System.out.println("Numeros negativos : "+ negativo);
 
-    System.out.println("aaa");
+    System.out.println("aaa"); //Cambio Liana
+
+    System.out.println("Hola liana");//Diego
 
 
 
