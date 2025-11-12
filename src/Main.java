@@ -137,7 +137,17 @@ public static void ej4(){
 }
 
 public static void ej5(){
+    System.out.println("Introduzca un numero ");
+    int n1 = sc.nextInt();
+    if (n1 <= 0){
+        System.out.println("*");
 
+    }else {
+        for (int i = 0; i < n1; i++){
+            System.out.print(" * ");
+        }
+        System.out.println();
+    }
 
 
 }
